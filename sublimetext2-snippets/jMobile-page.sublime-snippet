@@ -1,0 +1,13 @@
+
+<!-- Page -->
+<snippet>
+<content><![CDATA[
+<div data-role="page" id="${1:page}">
+	<div data-role="content">
+		${2}
+	</div>
+</div>
+		]]></content>
+		<tabTrigger>jpage</tabTrigger>
+	</snippet>
+

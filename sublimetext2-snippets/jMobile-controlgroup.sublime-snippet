@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="controlgroup" id="${1:controlgroup}">${2}</div>
+]]></content>	
+	<tabTrigger>jcontrolgroup</tabTrigger>
+</snippet>

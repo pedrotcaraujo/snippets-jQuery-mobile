@@ -1,0 +1,9 @@
+
+<!-- Checkbox -->
+<snippet>
+<content><![CDATA[
+<label><input type="checkbox" name="${1:checkbox}" id="${2:checkbox}">${3:Checkbox}</label>
+]]></content>
+		<tabTrigger>jcheckbox</tabTrigger>
+	</snippet>
+

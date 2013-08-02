@@ -1,0 +1,34 @@
+/*----------------------
+	SNIPPPET LEFT
+	-------------------*/
+
+
+| x |	- Button
+| x |	- Checkbox
+| x |	- Collapsible
+| x |	- CollapsibleSet
+| x |	- Content
+| x |	- Control Group
+|  |	- Dialog
+|  |	- Field Container
+|  |	- Footer
+|  |	- Form
+|  |	- Grid
+|  |	- Header
+|  |	- Label
+|  |	- Link
+|  |	- List View
+|  |	- List View Item
+|  |	- Navbar
+| x |	- Page
+|  |	- Panel
+|  |	- Popup
+|  |	- Radio Button
+|  |	- Range Slider
+|  |	- Search Input
+|  |	- Select Menu
+|  |	- Slider
+|  |	- Table
+|  |	- Text Area
+|  |	- Text Input
+|  |	- Toogle Switch
