@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<select name="${1:select}" id="${2:select}">
+	<option	value="${3:select}">${4}</option>
+</select>
+]]></content>
+	<tabTrigger>jselect</tabTrigger>
+</snippet>

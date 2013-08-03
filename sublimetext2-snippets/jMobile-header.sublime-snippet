@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="header" id="${1:header}" data-position="fixed">
+	<h3>${2}</h3>
+</div>
+]]></content>
+	<tabTrigger>jheader</tabTrigger>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="navbar" id="${1:navbar}">
+	<ul>
+		<li><a href="${2:#}" id="${3:item}">${4}</a></li>
+		<li><a href="${5:#}" id="${6:item0}">${7}</a></li>
+		<li><a href="${8:#}" id="${9:item1}">${10}</a></li>
+	</ul>
+</div>
+]]></content>
+	<tabTrigger>jnavbar</tabTrigger>
+</snippet>

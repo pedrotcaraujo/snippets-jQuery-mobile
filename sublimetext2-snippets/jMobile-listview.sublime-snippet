@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ul data-role="listview" id="${1:listview}" data-inset="true">
+	<li data-role="list-divider" id="${2:divider}">${3:Divider}</li>
+	<li id="${4:listitem}"><a href="#">${5}</a></li>
+	<li id="${6:listitem0}"><a href="#">${7}</a></li>
+	<li id="${8:listitem1}"><a href="#">${9}</a></li>
+</ul>
+]]></content>
+	<tabTrigger>jlistview</tabTrigger>
+</snippet>

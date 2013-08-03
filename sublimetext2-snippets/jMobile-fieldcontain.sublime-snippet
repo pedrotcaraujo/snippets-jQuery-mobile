@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain" id="${1:fieldcontain}">${2}</div>
+]]></content>
+	<tabTrigger>jfieldcontain</tabTrigger>
+</snippet>
