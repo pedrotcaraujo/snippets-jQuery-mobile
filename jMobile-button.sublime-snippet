@@ -1,0 +1,9 @@
+<!-- Button -->
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" data-role="button" id="${2:button}">${3:Button}</a>
+]]></content>
+	<tabTrigger>jbutton</tabTrigger>
+</snippet>
+
+

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<textarea id="${1:textarea}">${2}</textarea>
+]]></content>
+	<tabTrigger>jtextarea</tabTrigger>
+</snippet>

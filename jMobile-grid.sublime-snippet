@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="ui-grid-a">
+	<div class="ui-block-a">${1}</div>
+	<div class="ui-block-b">${2}</div>
+</div>
+]]></content>
+	<tabTrigger>jgrid</tabTrigger>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+	<div data-role="collapsible-set" id="${1:collapsible-set}">
+		<div data-role="collapsible" id="${2:collapsible}">
+			<h3>${3:Collapsible}</h3>
+		</div>
+		<div data-role="collapsible" id="${4:collapsible0}">
+			<h3>${5:Collapsible}</h3>
+		</div>
+		<div data-role="collapsible" id="${6:collapsible1}">
+			<h3>${7:Collapsible}</h3>
+		</div>
+	</div>
+]]></content>	
+	<tabTrigger>jcollapsibleset</tabTrigger>
+</snippet>

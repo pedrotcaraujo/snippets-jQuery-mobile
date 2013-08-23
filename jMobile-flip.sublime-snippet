@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<label for="${1:flip}">${2}</label>
+<select	name="${1:flip}" id="${3:flip}" data-role="slider">
+	<option	value="${4}">${5}</option>
+	<option value="${6}">${7}</option>
+</select>
+]]></content>
+	<tabTrigger>jflip</tabTrigger>
+</snippet>

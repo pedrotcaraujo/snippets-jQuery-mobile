@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="panel" id="${1:panel}">${2}</div>
+]]></content>
+	<tabTrigger>jpanel</tabTrigger>
+</snippet>
