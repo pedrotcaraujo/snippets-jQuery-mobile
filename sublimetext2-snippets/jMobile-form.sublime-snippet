@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<form id="${1:form}" action="${2}">${3}</form>
-]]></content>
-	<tabTrigger>jform</tabTrigger>
-</snippet>

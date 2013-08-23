@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="#" id="${1:link}">${2:Link}</a>
-]]></content>
-	<tabTrigger>jlink</tabTrigger>
-</snippet>

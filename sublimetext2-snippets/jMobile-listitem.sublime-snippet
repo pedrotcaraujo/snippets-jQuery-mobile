@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li id="${1:listitem}"><a href="${2}" id="${3:item}">${4}</a></li>
-]]></content>
-	<tabTrigger>jlistitem</tabTrigger>
-</snippet>

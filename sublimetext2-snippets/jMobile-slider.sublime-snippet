@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="${1:slider}">${2}</label>
-<input type="range"	name="${1:slider}" id="${3:slider}" value="50" min="0" max="100">
-]]></content>
-	<tabTrigger>jslider</tabTrigger>
-</snippet>

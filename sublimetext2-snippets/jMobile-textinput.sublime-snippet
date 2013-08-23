@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="${1:text}">${2}</label>
-<input type="text" name="${1:text}" id="${3:text}">
-]]></content>
-	<tabTrigger>jtextinput</tabTrigger>
-</snippet>

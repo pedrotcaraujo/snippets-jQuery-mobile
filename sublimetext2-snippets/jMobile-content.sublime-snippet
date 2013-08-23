@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div data-role="content" id="${1:pageContent}">${2}</div>
-]]></content>	
-	<tabTrigger>jcontent</tabTrigger>
-</snippet>

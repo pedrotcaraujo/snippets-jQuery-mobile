@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label id="${1:label}">${2:Label:}</label>
-]]></content>
-	<tabTrigger>jlabel</tabTrigger>
-</snippet>

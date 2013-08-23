@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="${1:search}" id="${2:label}">${3}</label>
-<input	type="search" name="${1:search}" id="${4:search}">
-]]></content>
-	<tabTrigger>jsearch</tabTrigger>
-</snippet>

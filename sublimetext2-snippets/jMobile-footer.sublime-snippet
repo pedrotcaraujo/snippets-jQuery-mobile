@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div data-role="footer" data-position="fixed" id="${1:footer}">
-	<h3>${2}</h3>
-</div>
-]]></content>
-	<tabTrigger>jfooter</tabTrigger>
-</snippet>
