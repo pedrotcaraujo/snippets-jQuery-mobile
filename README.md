@@ -47,21 +47,6 @@ Linux: `/home/{user}/.config/sublime-text-2/Packages/`
 	</div>
 ```
 
-###[jcollapsibleset] Collapsible Set
-```html 
-	<div data-role="collapsible-set" id="${1:collapsible-set}">
-		<div data-role="collapsible" id="${2:collapsible}">
-			<h3>${3:Collapsible}</h3>
-		</div>
-		<div data-role="collapsible" id="${4:collapsible0}">
-			<h3>${5:Collapsible}</h3>
-		</div>
-		<div data-role="collapsible" id="${6:collapsible1}">
-			<h3>${7:Collapsible}</h3>
-		</div>
-	</div>
-```
-
 ###[jcontent] Content
 ```html 
 <div data-role="content" id="${1:pageContent}">${2}</div>
@@ -171,7 +156,7 @@ Linux: `/home/{user}/.config/sublime-text-2/Packages/`
 </div>
 ```
 
-###[jradio] Radio
+###[jradio] Radio Button
 ```html 
 <input type="radio"	name="radio-choice" id="${1:radio}" value="${2:radio}"><label for="${3:radio}">${4}</label>
 ```
